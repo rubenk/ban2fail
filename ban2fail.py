@@ -5,7 +5,7 @@ This script reads the systemd journal looking for invalid
 ssh login attempts and publishes these on a MQTT queue
 '''
 
-__author__  = 'Ruben Kerkhof <ruben@tilaa.com'
+__author__  = 'Ruben Kerkhof <ruben@tilaa.com>'
 __license__ = 'GPLv2'
 __version__ = '0.0.1'
 
